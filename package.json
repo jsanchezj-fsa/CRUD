@@ -1,0 +1,19 @@
+{
+  "name": "herramientas-soft-pca",
+  "version": "1.0.0",
+  "description": "Mini app de gestión de tareas con Express y Firebase",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.10.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
